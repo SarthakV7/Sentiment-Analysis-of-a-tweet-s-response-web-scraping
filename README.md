@@ -19,7 +19,7 @@ Sentiment analysis of the comments on a tweet by web scraping using Selenium, bs
    
 #### Explaining a few steps-
  - The program asks for a 'url' as input: The url should be copied from the page after selecting the tweet such that the page that is 
-       opened has comments visible on scrolling.
+       opened has comments visible on scrolling. (Checkout the 'how to copy url.gif' file attached).
  - The program asks for the number of comments to process: The input will decide the number of comments to be selected for analyzing
        the data and producing a response, note that 'n' number of comments will be selected from top to bottom.
        
