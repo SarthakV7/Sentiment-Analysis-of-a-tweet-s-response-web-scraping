@@ -1,5 +1,5 @@
 # Sentiment-Analysis-of-a-tweet-s-response-web-scraping
-Sentiment analysis of the comments on a tweet by web scraping using Selenium, bs4, NLTK (Vader) and Regular Expressions.
+Sentiment analysis of the comments on a tweet by web scraping using Selenium, bs4, NLTK (Vader) and Regular Expressions written in Python 3.6.
 
 #### Libraries used-
  - Selenium (Automation tool)
